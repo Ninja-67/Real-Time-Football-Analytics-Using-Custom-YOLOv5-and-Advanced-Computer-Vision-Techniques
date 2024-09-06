@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Football Analysis Project
 
 ## Introduction
@@ -31,3 +32,6 @@ To run this project, you need to have the following requirements installed:
 - NumPy
 - Matplotlib
 - Pandas
+=======
+# Real-Time-Football-Analytics-Using-Custom-YOLOv5-and-Advanced-Computer-Vision-Techniques
+>>>>>>> origin/main
