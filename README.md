@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Football Analysis Project
+# Real-Time-Football-Analytics-Using-Custom-YOLOv5-and-Advanced-Computer-Vision-Techniques
 
 ## Introduction
 This project focuses on detecting and tracking players, referees, and footballs in a video using the YOLO object detection model. The project includes training the model to enhance its performance. It involves assigning players to teams based on their t-shirt colors through K-means clustering and pixel segmentation. Optical flow will be used to track camera movement between frames, which aids in accurately measuring player movement. Perspective transformation will be applied to account for depth and perspective in the scene, allowing for measurements in meters rather than pixels. The project will also calculate players' speed and the distance they cover.
@@ -33,5 +32,3 @@ To run this project, you need to have the following requirements installed:
 - Matplotlib
 - Pandas
 =======
-# Real-Time-Football-Analytics-Using-Custom-YOLOv5-and-Advanced-Computer-Vision-Techniques
->>>>>>> origin/main
